@@ -3,6 +3,10 @@
 ## Title of Work
 Revitalizing the Arts - Exploring Guaranteed Income and Artistic Insights in New York
 
+---
+![Dashboard](https://github.com/Naga-Manohar-Y/CRNY_Survey_Data_Analysis/blob/main/Dashboard.gif)
+---
+
 ## Overview
 This project focuses on analyzing survey data to explore guaranteed income and its impact on artistic communities in New York. The data visualization provides insights into applicant demographics, enrollment summaries, financial wellness, and the impact of COVID-19 on artists.
 
