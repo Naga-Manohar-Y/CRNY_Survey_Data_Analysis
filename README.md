@@ -11,7 +11,7 @@ Revitalizing the Arts - Exploring Guaranteed Income and Artistic Insights in New
 This project focuses on analyzing survey data to explore guaranteed income and its impact on artistic communities in New York. The data visualization provides insights into applicant demographics, enrollment summaries, financial wellness, and the impact of COVID-19 on artists.
 
 ## Data Visualization
-[View Data Visualization](https://app.powerbi.com/links/z-iLpN2fgg?ctid=1113be34-aed1-4d00-ab4b-cdd02510be91&pbi_source=linkShare&bookmarkGuid=1ccb26f8-39e0-4653-856e-7a7190288014)
+Interact with the Dashboard here:- [View Power-BI Dashboard](https://app.powerbi.com/links/z-iLpN2fgg?ctid=1113be34-aed1-4d00-ab4b-cdd02510be91&pbi_source=linkShare&bookmarkGuid=1ccb26f8-39e0-4653-856e-7a7190288014)
 
 ## Narrative About Data Visualization
 The data visualization is structured into four main sections:
